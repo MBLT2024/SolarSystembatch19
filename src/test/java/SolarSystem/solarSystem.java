@@ -8,12 +8,13 @@ public class solarSystem {
         solar.star="2";
         System.out.println("the solar system is ready");
 
-<<<<<<< HEAD
+
         featureSun xros=new featureSun();
         xros.color="pink";
         xros.temp="24324kv";
         xros.size="0km";
-=======
+
+        
         planet1 renox = new planet1();
         renox.color="grey";
         renox.size="10km";
